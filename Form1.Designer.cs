@@ -52,7 +52,7 @@
             this.titleLabel.Name = "titleLabel";
             this.titleLabel.Size = new System.Drawing.Size(421, 40);
             this.titleLabel.TabIndex = 1;
-            this.titleLabel.Text = "Digite o CPF (Inclua os Pontos) :";
+            this.titleLabel.Text = "Digite o CPF:";
             this.titleLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.titleLabel.Click += new System.EventHandler(this.titleLabel_Click);
             // 
